@@ -1,0 +1,13 @@
+# Derleme klasörleri
+bin/
+obj/
+
+# Yürütülebilir dosyalar
+*.exe
+*.o
+
+# Geçici test dosyaları
+tempCodeRunnerFile.cpp
+
+# Code::Blocks otomatik oluşturduğu dosyalar
+*.depend
